@@ -1,5 +1,6 @@
 # DiviliumEngine
-Divilium is  a C++ custom Engine, specialized for RTS games, running on PC and PS4. The Demo made as Showcase are based on the game FFFLood
+Divilium is  a C++ custom Engine, specialized for RTS games, running on PC and PS4. The Demo made as Showcase are based on the game FFFLood.
+The Visual Studio project cannot be run since the files inherent to the Engine are missing, so this repository is for demonstration use only.
 
 My Info:
 - Role: Gameplay & AI Programmer
